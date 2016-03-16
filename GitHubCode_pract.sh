@@ -61,6 +61,11 @@ git push
 # Check all the changes with
 git log
 
+#Rename File
+git mv File_NAME.txt NEW_File_NAME.txt
+git commit -m 'new file name'
+git push
+
 # For the no master branch
 git checkout NAME_YOUR_BRANCH
 git push origin NAME_YOUR_BRANCH
