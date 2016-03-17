@@ -1,3 +1,10 @@
 1. its i not e
+<<<<<<< HEAD
 2. german is a funny language,it's weird, hehehe
+
+=======
+2. german is a funny language, but Hindi sounds like baby language.
+3. ooooo la la...
+>>>>>>> 5146f299dad877460be6dbdee04fa69e62594258
+4.this's smart
 
